@@ -20,7 +20,7 @@ Experience the live demo [here](https://sushi-restaurant-html.vercel.app/).
 
 ## Seeking Opportunities
 
-If you're impressed by my designs and works, I'm actively seeking opportunities as a developer. As a fast learner with a commitment to excellence, I pride myself on delivering high-quality results on time. If you believe I could be a valuable addition to your team or project, feel free to reach out at [sujalraunak452@gmail.com](sujalraunak452@gmail.com). I'm eager to contribute my skills and expertise to new and exciting challenges.
+If you're impressed by my designs and works, I'm actively seeking opportunities as a developer. As a fast learner with a commitment to excellence, I pride myself on delivering high-quality results on time. If you believe I could be a valuable addition to your team or project, feel free to reach out at [sujalraunak452@gmail.com](mailto:sujalraunak452@gmail.com). I'm eager to contribute my skills and expertise to new and exciting challenges.
 
 ## How to Use:
 
